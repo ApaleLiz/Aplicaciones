@@ -1,0 +1,14 @@
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\bin\Debug\net7.0\p04-procesa-calificaciones.exe
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\bin\Debug\net7.0\p04-procesa-calificaciones.deps.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\bin\Debug\net7.0\p04-procesa-calificaciones.runtimeconfig.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\bin\Debug\net7.0\p04-procesa-calificaciones.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\bin\Debug\net7.0\p04-procesa-calificaciones.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.AssemblyInfoInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.AssemblyInfo.cs
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\refint\p04-procesa-calificaciones.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\p04-procesa-calificaciones.genruntimeconfig.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p04-procesa-calificaciones\obj\Debug\net7.0\ref\p04-procesa-calificaciones.dll

@@ -1,0 +1,14 @@
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\bin\Debug\net7.0\p02-paga-trabajador.exe
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\bin\Debug\net7.0\p02-paga-trabajador.deps.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\bin\Debug\net7.0\p02-paga-trabajador.runtimeconfig.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\bin\Debug\net7.0\p02-paga-trabajador.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\bin\Debug\net7.0\p02-paga-trabajador.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.AssemblyInfoInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.AssemblyInfo.cs
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\refint\p02-paga-trabajador.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\p02-paga-trabajador.genruntimeconfig.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p02-paga-trabajador\obj\Debug\net7.0\ref\p02-paga-trabajador.dll

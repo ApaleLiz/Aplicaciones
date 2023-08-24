@@ -1,0 +1,4 @@
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p03-venta-pizza\obj\Debug\net7.0\p03-venta-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p03-venta-pizza\obj\Debug\net7.0\p03-venta-pizza.AssemblyInfoInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p03-venta-pizza\obj\Debug\net7.0\p03-venta-pizza.AssemblyInfo.cs
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p03-venta-pizza\obj\Debug\net7.0\p03-venta-pizza.csproj.CoreCompileInputs.cache

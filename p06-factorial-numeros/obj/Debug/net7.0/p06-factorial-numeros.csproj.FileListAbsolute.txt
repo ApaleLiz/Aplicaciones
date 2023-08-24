@@ -1,0 +1,14 @@
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\bin\Debug\net7.0\p06-factorial-numeros.exe
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\bin\Debug\net7.0\p06-factorial-numeros.deps.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\bin\Debug\net7.0\p06-factorial-numeros.runtimeconfig.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\bin\Debug\net7.0\p06-factorial-numeros.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\bin\Debug\net7.0\p06-factorial-numeros.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.AssemblyInfoInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.AssemblyInfo.cs
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\refint\p06-factorial-numeros.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\p06-factorial-numeros.genruntimeconfig.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p06-factorial-numeros\obj\Debug\net7.0\ref\p06-factorial-numeros.dll

@@ -1,0 +1,14 @@
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.AssemblyInfoInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.AssemblyInfo.cs
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\bin\Debug\net7.0\p05-tabla-de-conversion.exe
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\bin\Debug\net7.0\p05-tabla-de-conversion.deps.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\bin\Debug\net7.0\p05-tabla-de-conversion.runtimeconfig.json
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\bin\Debug\net7.0\p05-tabla-de-conversion.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\bin\Debug\net7.0\p05-tabla-de-conversion.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\refint\p05-tabla-de-conversion.dll
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.pdb
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\p05-tabla-de-conversion.genruntimeconfig.cache
+C:\Users\Liz\Desktop\9 SEMESTRE\Aplicaciones\p05-tabla-de-conversion\obj\Debug\net7.0\ref\p05-tabla-de-conversion.dll
